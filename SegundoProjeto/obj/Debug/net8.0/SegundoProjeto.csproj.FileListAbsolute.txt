@@ -1,0 +1,14 @@
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.exe
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.deps.json
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.runtimeconfig.json
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.dll
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.pdb
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfo.cs
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.dll
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\refint\SegundoProjeto.dll
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.pdb
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.genruntimeconfig.cache
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\ref\SegundoProjeto.dll
