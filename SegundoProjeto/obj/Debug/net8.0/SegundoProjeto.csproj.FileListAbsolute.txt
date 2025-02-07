@@ -12,3 +12,4 @@ C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\refint\Segundo
 C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.pdb
 C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.genruntimeconfig.cache
 C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\ref\SegundoProjeto.dll
+C:\Projetos\Logica\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.sourcelink.json
