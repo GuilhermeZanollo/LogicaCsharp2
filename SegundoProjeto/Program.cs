@@ -303,7 +303,7 @@ namespace testes_ec
             Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, 
             calcule e mostre o valor da conta a pagar.
 
-         
+            
             string[] values = Console.ReadLine().Split(' ');
 
             int codeProduct = int.Parse(values[0]);
@@ -605,19 +605,18 @@ namespace testes_ec
                 {
                     Console.WriteLine("TRIANGULO ISOSCELES");
             */
-                    // 1047 URI
+            // 1047 URI
 
-                    
+            // 1049 URI
 
-                    // 1049 URI
+            // 1051 URI
 
-                    // 1051 URI
+            // suplementares:  - 1042, 1043, 1050, 1052, 1060, 1064, 1065, 1066, 1070
 
-                    Console.ReadLine();
-
-                }
-            }
+            Console.ReadLine();
         }
+    }
+}
 
 
 
